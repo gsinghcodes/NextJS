@@ -13,7 +13,7 @@ export default function OrderPage() {
   return (
     <>
       <h1>Order Product</h1>
-      <button onClick={handleClick}>Place Order</button>
+      <button onClick={handleClick}>Place Order now</button>
     </>
   );
 }

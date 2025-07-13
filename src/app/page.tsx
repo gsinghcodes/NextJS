@@ -10,7 +10,7 @@ export default function Home() {
         <Link href={"/articles/breaking-news?lang=en"}>Read in English</Link>
         <Link href={"/articles/breaking-news?lang=fr"}>Read in French</Link>
         <Link href={"/order-product"}>Order Product</Link>
-        <Link href={"/dashboard"}>Dashboard</Link>
+        <Link href={"/dashboard"}>Dashboard Page</Link>
       </div>
     </div>
   );
